@@ -1,0 +1,4 @@
+Size = HDSize
+FreeSpace = HDFreeSpace
+CSDVersion = ServicePack
+Caption = OS

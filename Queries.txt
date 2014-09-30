@@ -1,0 +1,6 @@
+Property/Class/Filter
+UserName\TotalPhysicalMemory\Model\Name/Win32_ComputerSystem/
+Size\FreeSpace/Win32_LogicalDisk/DeviceID = 'C:'
+Caption\CSDVersion/Win32_OperatingSystem/
+SerialNumber/Win32_Bios/
+MACAddress/Win32_NetworkAdapterConfiguration/IPEnabled = True
